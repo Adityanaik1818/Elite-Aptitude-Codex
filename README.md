@@ -1,40 +1,40 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM NEURAL-NEXUS HERO SECTION: ABSOLUTE VOID & NEON AMETHYST -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,100:B026FF&height=380&section=header&text=A%20P%20T%20I%20T%20U%20D%20E%20%20❖%20%20N%20E%20X%20U%20S&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM APEX HERO SECTION: OBSIDIAN & LIQUID GOLD -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,100:FFD700&height=380&section=header&text=A%20P%20T%20I%20T%20U%20D%20E%20%20❖%20%20A%20P%20E%20X&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (ORBITRON FONT) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initialize+Tier-1+Placement+Protocols;►+Master+500+High-Probability+Aptitude+Algorithms;►+Dominate+TCS,+Infosys,+Wipro,+CTS,+%26+Accenture;►+Bypass+HR+Filters.+Command+Your+Worth.&center=true&width=800&height=70&color=B026FF&vCenter=true&size=21&font=Orbitron&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (RAJDHANI FONT) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initiating+Tier-1+Placement+Protocols;►+Master+500+High-Probability+Aptitude+Algorithms;►+Dominate+TCS,+Infosys,+Wipro,+CTS,+%26+Accenture;►+Bypass+HR+Filters.+Command+Your+Worth.&center=true&width=800&height=70&color=FFD700&vCenter=true&size=22&font=Rajdhani&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-CN_Pragadeeswara_Prabhu-020205?style=for-the-badge&logo=github&logoColor=B026FF" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-500_Master_Questions-020205?style=for-the-badge&logo=codeigniter&logoColor=B026FF" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-020205?style=for-the-badge&logo=target&logoColor=B026FF" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-B026FF?style=for-the-badge&logo=rocket&logoColor=020205" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-CN_Pragadeeswara_Prabhu-09090B?style=for-the-badge&logo=github&logoColor=FFD700" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-500_Master_Questions-09090B?style=for-the-badge&logo=codeigniter&logoColor=FFD700" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-09090B?style=for-the-badge&logo=target&logoColor=FFD700" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FFD700?style=for-the-badge&logo=rocket&logoColor=09090B" alt="Status">
 </p>
 
 <br>
 
 <a href="./500%20most%20asked%20apti%20ques%20in%20tcs,%20wipro,%20infosis.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-020205?style=for-the-badge&logo=adobeacrobatreader&logoColor=B026FF" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-09090B?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> ⚠️ **EXECUTIVE DIRECTIVE:** *General preparation will not survive a Tier-1 technical placement drive. This repository houses a highly-classified, tactical codex of 500 numerical aptitude questions sourced directly from recent campus recruitment drives[cite: 95, 98]. Featuring targeted topic weightage analysis and high-speed shortcuts, this payload guarantees absolute readiness for elite corporate assessments[cite: 97].*
+> 👑 **EXECUTIVE DIRECTIVE:** *General preparation will not survive a Tier-1 technical placement drive. This repository houses a highly-classified, tactical codex of 500 numerical aptitude questions sourced directly from recent campus recruitment drives[cite: 95, 98]. Featuring targeted topic weightage analysis and high-speed shortcuts, this payload guarantees absolute readiness for elite corporate assessments[cite: 97].*
 
 </div>
 
 <br>
 
-<!-- SLEEK RAZOR-LINE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B026FF&height=2" width="100%"/>
+<!-- SLEEK LIQUID GOLD DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:09090B&height=3" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 Ｃ 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 𝗖 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
 
 <p align="center"><i>A high-density architectural breakdown of the computational ecosystem. Click to expand modules.</i></p>
 
@@ -43,7 +43,7 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/calculator.png" width="24"/> <kbd>MOD-01</kbd> ARITHMETIC & NUMBER SYSTEMS</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/calculator.png" width="24"/> <kbd>MOD-01</kbd> ARITHMETIC & NUMBER SYSTEMS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/time.png" width="24"/> <kbd>MOD-02</kbd> TIME, SPEED & WORK DYNAMICS</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/time.png" width="24"/> <kbd>MOD-02</kbd> TIME, SPEED & WORK DYNAMICS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/dice.png" width="24"/> <kbd>MOD-03</kbd> PERMUTATION & PROBABILITY</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/dice.png" width="24"/> <kbd>MOD-03</kbd> PERMUTATION & PROBABILITY</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/artificial-intelligence.png" width="24"/> <kbd>MOD-04</kbd> LOGIC, GEOMETRY & CRYPT ARITHMETIC</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/artificial-intelligence.png" width="24"/> <kbd>MOD-04</kbd> LOGIC, GEOMETRY & CRYPT ARITHMETIC</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -134,12 +134,12 @@
 
 <br>
 
-<!-- SLEEK RAZOR-LINE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B026FF&height=2" width="100%"/>
+<!-- SLEEK LIQUID GOLD DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:FFD700&height=3" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗔 𝗥 𝗚 𝗘 𝗧 &nbsp; 𝗩 𝗘 Ｃ 𝗧 𝗢 𝗥 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗔 𝗥 𝗚 𝗘 𝗧 &nbsp; 𝗩 𝗘 𝗖 𝗧 𝗢 𝗥 𝗦 ✦</h2>
 
 <p align="center"><i>This framework is algorithmically tailored to dominate the assessment rounds of the following giants:</i></p>
 
@@ -147,22 +147,22 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/COMPANY-Infosys-020205?style=for-the-badge&logoColor=B026FF" /> 
-<img src="https://img.shields.io/badge/COMPANY-TCS-020205?style=for-the-badge&logoColor=B026FF" /> 
-<img src="https://img.shields.io/badge/COMPANY-CTS-020205?style=for-the-badge&logoColor=B026FF" /><br><br>
-<img src="https://img.shields.io/badge/COMPANY-Wipro-020205?style=for-the-badge&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/COMPANY-Accenture-020205?style=for-the-badge&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/COMPANY-Infosys-09090B?style=for-the-badge&logoColor=FFD700" /> 
+<img src="https://img.shields.io/badge/COMPANY-TCS-09090B?style=for-the-badge&logoColor=FFD700" /> 
+<img src="https://img.shields.io/badge/COMPANY-CTS-09090B?style=for-the-badge&logoColor=FFD700" /><br><br>
+<img src="https://img.shields.io/badge/COMPANY-Wipro-09090B?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/COMPANY-Accenture-09090B?style=for-the-badge&logoColor=FFD700" />
 
 </div>
 
 <br>
 
-<!-- SLEEK RAZOR-LINE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B026FF&height=2" width="100%"/>
+<!-- SLEEK LIQUID GOLD DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:09090B&height=3" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗘 𝗫 𝗘 Ｃ Ｕ 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
+<h2 align="center">✦ 𝗘 𝗫 𝗘 𝗖 𝗨 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
 
 <p align="center"><i>Transform theoretical knowledge into instinctive problem-solving reflexes using the 4-stage cognitive pipeline.</i></p>
 
@@ -172,25 +172,25 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/B026FF/visible--v1.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FFD700/visible--v1.png" width="55"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Logic</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/B026FF/code.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FFD700/code.png" width="55"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Patterns</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/B026FF/bug.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FFD700/bug.png" width="55"/><br>
       <b>03. DEBUG</b><br>
       <code>Optimize Speed</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/B026FF/checked.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/FFD700/checked.png" width="55"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -207,7 +207,7 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:020205&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:09090B&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
