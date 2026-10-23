@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM VANGUARD HERO SECTION: ABSOLUTE VOID & LASER RED -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF003C&height=380&section=header&text=A%20P%20T%20I%20T%20U%20D%20E%20%20❖%20%20M%20A%20S%20T%20E%20R%20Y&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM NEURAL-NEXUS HERO SECTION: ABSOLUTE VOID & NEON AMETHYST -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,100:B026FF&height=380&section=header&text=A%20P%20T%20I%20T%20U%20D%20E%20%20❖%20%20N%20E%20X%20U%20S&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (JETBRAINS MONO) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initialize+Tier-1+Placement+Protocols;►+Master+500+High-Probability+Aptitude+Challenges;►+Dominate+TCS,+Infosys,+Wipro,+CTS,+%26+Accenture;►+Bypass+HR+Filters.+Command+Your+Worth.&center=true&width=800&height=70&color=FF003C&vCenter=true&size=21&font=JetBrains+Mono&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (ORBITRON FONT) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initialize+Tier-1+Placement+Protocols;►+Master+500+High-Probability+Aptitude+Algorithms;►+Dominate+TCS,+Infosys,+Wipro,+CTS,+%26+Accenture;►+Bypass+HR+Filters.+Command+Your+Worth.&center=true&width=800&height=70&color=B026FF&vCenter=true&size=21&font=Orbitron&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-CN_Pragadeeswara_Prabhu-000000?style=for-the-badge&logo=github&logoColor=FF003C" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-500_Master_Questions-000000?style=for-the-badge&logo=codeigniter&logoColor=FF003C" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-000000?style=for-the-badge&logo=target&logoColor=FF003C" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FF003C?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-CN_Pragadeeswara_Prabhu-020205?style=for-the-badge&logo=github&logoColor=B026FF" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-500_Master_Questions-020205?style=for-the-badge&logo=codeigniter&logoColor=B026FF" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-020205?style=for-the-badge&logo=target&logoColor=B026FF" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-B026FF?style=for-the-badge&logo=rocket&logoColor=020205" alt="Status">
 </p>
 
 <br>
 
 <a href="./500%20most%20asked%20apti%20ques%20in%20tcs,%20wipro,%20infosis.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF003C" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-020205?style=for-the-badge&logo=adobeacrobatreader&logoColor=B026FF" alt="Read PDF" width="650">
 </a>
 
 <br><br>
@@ -30,11 +30,11 @@
 <br>
 
 <!-- SLEEK RAZOR-LINE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF003C&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B026FF&height=2" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 𝗖 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 Ｃ 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
 
 <p align="center"><i>A high-density architectural breakdown of the computational ecosystem. Click to expand modules.</i></p>
 
@@ -43,7 +43,7 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/calculator.png" width="24"/> <kbd>MOD-01</kbd> ARITHMETIC & NUMBER SYSTEMS</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/calculator.png" width="24"/> <kbd>MOD-01</kbd> ARITHMETIC & NUMBER SYSTEMS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/time.png" width="24"/> <kbd>MOD-02</kbd> TIME, SPEED & WORK DYNAMICS</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/time.png" width="24"/> <kbd>MOD-02</kbd> TIME, SPEED & WORK DYNAMICS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/dice.png" width="24"/> <kbd>MOD-03</kbd> PERMUTATION & PROBABILITY</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/dice.png" width="24"/> <kbd>MOD-03</kbd> PERMUTATION & PROBABILITY</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/artificial-intelligence.png" width="24"/> <kbd>MOD-04</kbd> LOGIC, GEOMETRY & CRYPT ARITHMETIC</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/B026FF/artificial-intelligence.png" width="24"/> <kbd>MOD-04</kbd> LOGIC, GEOMETRY & CRYPT ARITHMETIC</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -135,7 +135,7 @@
 <br>
 
 <!-- SLEEK RAZOR-LINE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF003C&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B026FF&height=2" width="100%"/>
 
 <br>
 
@@ -147,22 +147,22 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/COMPANY-Infosys-000000?style=for-the-badge&logoColor=FF003C" /> 
-<img src="https://img.shields.io/badge/COMPANY-TCS-000000?style=for-the-badge&logoColor=FF003C" /> 
-<img src="https://img.shields.io/badge/COMPANY-CTS-000000?style=for-the-badge&logoColor=FF003C" /><br><br>
-<img src="https://img.shields.io/badge/COMPANY-Wipro-000000?style=for-the-badge&logoColor=FF003C" />
-<img src="https://img.shields.io/badge/COMPANY-Accenture-000000?style=for-the-badge&logoColor=FF003C" />
+<img src="https://img.shields.io/badge/COMPANY-Infosys-020205?style=for-the-badge&logoColor=B026FF" /> 
+<img src="https://img.shields.io/badge/COMPANY-TCS-020205?style=for-the-badge&logoColor=B026FF" /> 
+<img src="https://img.shields.io/badge/COMPANY-CTS-020205?style=for-the-badge&logoColor=B026FF" /><br><br>
+<img src="https://img.shields.io/badge/COMPANY-Wipro-020205?style=for-the-badge&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/COMPANY-Accenture-020205?style=for-the-badge&logoColor=B026FF" />
 
 </div>
 
 <br>
 
 <!-- SLEEK RAZOR-LINE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF003C&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B026FF&height=2" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗘 𝗫 𝗘 Ｃ 𝗨 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
+<h2 align="center">✦ 𝗘 𝗫 𝗘 Ｃ Ｕ 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
 
 <p align="center"><i>Transform theoretical knowledge into instinctive problem-solving reflexes using the 4-stage cognitive pipeline.</i></p>
 
@@ -172,25 +172,25 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/visible--v1.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/B026FF/visible--v1.png" width="55"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Logic</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/code.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/B026FF/code.png" width="55"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Patterns</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/bug.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/B026FF/bug.png" width="55"/><br>
       <b>03. DEBUG</b><br>
       <code>Optimize Speed</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/checked.png" width="55"/><br>
+      <img src="https://img.icons8.com/ios-filled/96/B026FF/checked.png" width="55"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -207,7 +207,7 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:000000&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:020205&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
